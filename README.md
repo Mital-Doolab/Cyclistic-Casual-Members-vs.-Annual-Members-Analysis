@@ -11,6 +11,7 @@ In depth analysis on Cyclistic bike sharing data to determine how Casual Members
 
 ### Installing
 * Download datasets from [Motivate International Inc](https://divvy-tripdata.s3.amazonaws.com/index.html) 
+* Download datasets from Jan 5th 2021, 08:56:54 am to Dec 8th 2021, 03:19:04 pm 
 * Datasets will be downloaded as Zip files, unzip files to access dataset which will be a CSV. file 
 
 ### Executing the Program
