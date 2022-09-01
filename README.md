@@ -10,7 +10,7 @@ In depth analysis on Cyclistic bike sharing data to determine how Casual Members
 * RStudio
 
 ### Installing
-* Download datasets from [Motivate International Inc] (https://divvy-tripdata.s3.amazonaws.com/index.html) 
+* Download datasets from [Motivate International Inc] "(https://divvy-tripdata.s3.amazonaws.com/index.html)" 
 * Datasets will be downloaded as Zip files, unzip files to access dataset which will be a CSV. file 
 
 ### Executing the Program
@@ -22,5 +22,5 @@ In depth analysis on Cyclistic bike sharing data to determine how Casual Members
 If you are using a desktop version of RStudio, create a working directory to save all your R Code and save your datasets in the same file. This will help you when you want to locate your work. 
 
 ## License 
-This project is licensed under the Divy License - Link to [Licence] (https://ride.divvybikes.com/data-license-agreement)
+This project is licensed under the Divy License - Link to [Licence] "(https://ride.divvybikes.com/data-license-agreement)"
 
